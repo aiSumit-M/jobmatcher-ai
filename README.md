@@ -22,14 +22,6 @@ JobMatcher provides:
 
 ---
 
-## 👥 Team
-- Shubham Kumar (Lead)  
-- Ridhima  
-- Samiksha Pathak  
-- Sumit Mandal  
-
----
-
 ## 🛠️ Tech Stack
 - HTML  
 - CSS  
